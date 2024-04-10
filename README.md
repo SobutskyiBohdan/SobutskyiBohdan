@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bohdan Sobutskyi
 ========================================================================================================================================
 
-Web developer & Computer Engineer
+Computer Engineer
 ---------------------------------
 
 Now I am studying to become a computer engineer. I am learning all things web development.
